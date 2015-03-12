@@ -1,16 +1,24 @@
 {
   "name": "reverse-file",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "reverse-file CLI",
   "main": "reverse-file.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": {
     "name": "LightSpeedC"
   },
   "license": "MIT",
   "bin": {
     "reverse-file": "reverse-file"
+  },
+  "homepage": "https://github.com/LightSpeedWorks/reverse-file",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LightSpeedWorks/reverse-file.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LightSpeedWorks/reverse-file/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
